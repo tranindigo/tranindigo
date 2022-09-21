@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Kubernetes and other DevOps tools
 - 💬 Ask me about _cats_! 😸🐈😻
 - 📫 How to reach me: tranindigo@gmail.com
-- 😄 Pronouns: he/him or they/them
+- 😄 Pronouns: he/they
 - ⚡ Fun fact: I _love_ extreme couponing and thrift shopping!
