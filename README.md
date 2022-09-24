@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Kubernetes and what the heck it is...!
 - 👯 I'm looking to innovate existing ideas to deliver products that ultimately improve the human condition
 - 🤔 I’m looking for help with Kubernetes and other DevOps tools
-- 💬 Ask me about _cats_! 😸🐈😻
+- 💬 Ask me about _cats_! 🐈
 - 📫 How to reach me: tranindigo@gmail.com
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I _love_ extreme couponing and thrift shopping!
