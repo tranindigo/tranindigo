@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 - 🔭 I'm currently working as a Full Stack Software Engineer
 - 🌱 I'm currently learning Kubernetes and what the heck it is...!
@@ -23,3 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tranindigo@gmail.com
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I _love_ extreme couponing and thrift shopping!
+
+-->
